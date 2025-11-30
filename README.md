@@ -33,9 +33,9 @@
 
 <h3>Professonal Experience: </h3>
 
-- **Software Engineer(SDE3)**: Walton Hi-Tech Industries PLC. 
-- **Software Engineer(SDE2)**: Walton Hi-Tech Industries PLC.   
-- **Software Engineer(SDE1)**: Walton Hi-Tech Industries PLC.   
+- **Deputy Assistant Director(SDE3)**: Walton Hi-Tech Industries PLC. 
+- **Sr.Principal Officer(SDE2)**: Walton Hi-Tech Industries PLC.   
+- **Principal Officer(SDE1)**: Walton Hi-Tech Industries PLC.   
 - **Software Engineer(Apprentice)**: Walton Hi-Tech Industries PLC.   
 - **Software Engineer(Intern)**: Sheraspace Ltd.   
 
