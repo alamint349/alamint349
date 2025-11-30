@@ -45,7 +45,7 @@
 <!-- - **Leetcode**: [4⭐ and 12004+ Ranking📈](https://leetcode.com/alamin-tokee/)-->
 - **Google Scholar**: [https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en](https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en)
 - **ResearchGate**: [https://www.researchgate.net/profile/Md-Al-Amin-85](https://www.researchgate.net/profile/Md-Al-Amin-85)
-- **ORCID**: [https://orcid.org/my-orcid?orcid=0009-0002-8584-663X](https://orcid.org/my-orcid?orcid=0009-0002-8584-663X)   
+- **ORCID**: [https://orcid.org/0009-0002-8584-663X]( https://orcid.org/0009-0002-8584-663X)   
 <!-- **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)
 *Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
 - **HackerRank**: [5⭐](https://www.hackerrank.com/pcswe556)-->  
