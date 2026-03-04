@@ -14,7 +14,7 @@
 
 
 <h3 align="center">Software Engineer | Researcher | Mentor </h3>
-<h3 align="center">BSc in Software Engineering </h3>
+<!-- <h3 align="center">BSc in Software Engineering </h3> -->
 
 <!-- <a href="https://codechef.com/users/sachuverma"><img src="https://img.shields.io/badge/Codechef-2122-yellow"></a> -->
 <!-- <a href="https://codeforces.com/profile/sachuverma"><img src="https://img.shields.io/badge/Codeforces-1796-rgb(0%2C0%2C255)"></a> -->
