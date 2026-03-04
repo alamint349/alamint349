@@ -22,7 +22,7 @@
 <!-- <a href="https://leetcode.com/anjali-mc/"><img src="https://img.shields.io/badge/Leetcode-1940-ff69b4"></a> -->
 <!-- <a href="https://www.hackerrank.com/sachuverma"><img src="https://img.shields.io/badge/Hackerrank-1835-green"></a> -->
 
-<img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" />
+<!-- <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" /> -->
 
 
 - 🔭 I’m currently working on **Automation Project**
