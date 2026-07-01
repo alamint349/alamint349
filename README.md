@@ -46,7 +46,7 @@
 - **Google Scholar**: [https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en](https://scholar.google.com/citations?user=XfAQNCgAAAAJ&hl=en)
 - **ResearchGate**: [https://www.researchgate.net/profile/Md-Al-Amin-85](https://www.researchgate.net/profile/Md-Al-Amin-85)
 - **ORCID**: [https://orcid.org/0009-0002-8584-663X](https://orcid.org/0009-0002-8584-663X)
-- **Website**: [https://alamin-tokee.github.io](https://alamin-tokee.github.io)   
+- **Website**: [https://alamin-tokee.github.io](https://alamint349.github.io)   
 <!-- **Codeforces**: [Newbiew🧪](https://codeforces.com/profile/AH_Tokee)
 *Codechef**: [2⭐](https://www.codechef.com/users/alamintokee)   
 - **HackerRank**: [5⭐](https://www.hackerrank.com/pcswe556)-->  
@@ -210,4 +210,4 @@ PHP                      2 repos             ░░░░░░░░░░░�
 <a href="https://www.facebook.com/alaminhosen.tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/facebook.png" alt="alamintokee" height="40" width="40" /></a>
 </p>
 
-⭐️ From [Alamin Tokee](https://github.com/Alamin-Tokee) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```HappyCoding```
+⭐️ From [Alamin Tokee](https://github.com/alamint349) <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60">  ```HappyCoding```
