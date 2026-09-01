@@ -202,7 +202,7 @@ PHP                      2 repos             ░░░░░░░░░░░�
 
 <p align="center">
 <!--<a href="https://codepen.io/alamintokee" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="alamintokee" height="40" width="40" /></a>-->
-<a href="http:alamin-tokee.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/web.png" alt="alamintokee" height="40" width="40" />
+<a href="http:alamint349.github.io" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/web.png" alt="alamintokee" height="40" width="40" />
 <a href="https://linkedin.com/in/al-amin-tokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/linkedin.png" alt="alamintokee" height="40" width="40" /></a>
 <a href="https://instagram.com/alamintokee/" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/instagram.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
 <a href="https://www.youtube.com/@apostrophe4u" target="blank"><img align="center" src="https://raw.githubusercontent.com/Alamin-Tokee/alamintokee/master/icons/youtube.png" alt="Al-Amin Tokee" height="40" width="40" /></a>
