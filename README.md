@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/instagram-alamintokee-orange">
   </a>
   <a href="https://www.youtube.com/@apostrophe4u">
-    <img src="https://img.shields.io/badge/youtube-AlaminTokee-red" alt="alamintokee">
+    <img src="https://img.shields.io/badge/youtube-alamintokee-red" alt="alamintokee">
   </a>
   <span> <img src="https://komarev.com/ghpvc/?username=alamint349" alt="alamintokee"></span>
 </p>
