@@ -25,9 +25,9 @@
 <!-- <img width="30%" align="right" alt="GIF" src="https://undo.io/media/uploads/files/Frustrated_programmer.gif" /> -->
 
 
-- 🔭 I’m currently working on **Automation Project**
-- 🌱 I’m currently learning ... **CUDA/PyTorch**
-- 💬 Ask me about ... **ML/DL, Computer Vision, Computational Biology**
+<!-- - 🔭 I’m currently working on **Automation Project**
+- 🌱 I’m currently learning ... **CUDA/PyTorch** -->
+- 💬 Ask me about ... **NLP, Computer Vision, Computational Biology**
 - 😄 Employement ... **Open for full-time opportunities**
 - 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
 
