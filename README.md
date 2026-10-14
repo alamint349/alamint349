@@ -27,7 +27,7 @@
 
 <!-- - 🔭 I’m currently working on **Automation Project**
 - 🌱 I’m currently learning ... **CUDA/PyTorch** -->
-- 💬 Ask me about ... **HCI, AI Security, AI for Cybersecurity & Software Engineering**
+- 💬 Ask me about ... **Human-Computer Interaction (HCI), Natural Language Processing (NLP)**
 - 😄 Employement ... **Open for full-time opportunities**
 - 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
 
