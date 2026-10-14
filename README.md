@@ -9,7 +9,7 @@
   <a href="https://www.youtube.com/@apostrophe4u">
     <img src="https://img.shields.io/badge/youtube-alamintokee-red" alt="alamintokee">
   </a>
-  <span> <img src="https://komarev.com/ghpvc/?username=alamint349" alt="alamintokee"></span>
+  <!-- <span> <img src="https://komarev.com/ghpvc/?username=alamint349" alt="alamintokee"></span> -->
 </p>
 
 
@@ -27,7 +27,7 @@
 
 <!-- - 🔭 I’m currently working on **Automation Project**
 - 🌱 I’m currently learning ... **CUDA/PyTorch** -->
-- 💬 Ask me about ... **Human-Computer Interaction (HCI), Natural Language Processing (NLP)**
+- 💬 Ask me about ... **Human-Computer Interaction (HCI) & Natural Language Processing (NLP)**
 - 😄 Employement ... **Open for full-time opportunities**
 - 📫 How to reach me **<a href="mailto:alamintokee@gmail.com">alamintokee@gmail.com</a>**
 
