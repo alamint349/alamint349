@@ -33,6 +33,7 @@
 
 <h3>Professonal Experience: </h3>
 
+- **Sr. Deputy Assistant Director(SDE3)**: Walton Hi-Tech Industries PLC. 
 - **Deputy Assistant Director(SDE3)**: Walton Hi-Tech Industries PLC. 
 - **Sr. Principal Officer(SDE2)**: Walton Hi-Tech Industries PLC.   
 - **Principal Officer(SDE1)**: Walton Hi-Tech Industries PLC.   
